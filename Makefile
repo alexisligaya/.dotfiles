@@ -1,7 +1,7 @@
 #targets
 
  linux: clean
-	bash ./bin/linux.sh
+	./bin/linux.sh
 
  clean:
-	bash ./bin/cleanup.sh
+	./bin/cleanup.sh
